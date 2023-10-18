@@ -1,0 +1,26 @@
+[
+  {
+    "title": "About All Phase Masonry",
+    "description": "Multi-Generational Family of Masons. Click here to learn more.",
+    "icon": "fa fa-users",
+	"link": "/about/"
+  },
+  {
+    "title": "See our past work",
+    "description": "We are proud of all our jobs, but click here to see some favorites.",
+    "icon": "fa fa-thumbs-up",
+	"link": "/projects/"
+  },
+  {
+    "title": "Read our reviews",
+    "description": "We take pride in our customer service and it shows!",
+    "icon": "fa fa fa-comments",
+    "link": "/contact/"
+  },
+  {
+    "title": "Have a project in mind?",
+    "description": "Contact us for an estimate!",
+    "icon": "fa fa-address-card",
+    "link": "/contact/"
+  }
+]
