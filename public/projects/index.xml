@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Work on All Phase Masonry</title>
+    <link>https://all-phase-masonry.github.io/projects/</link>
+    <description>Recent content in Our Work on All Phase Masonry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://all-phase-masonry.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Makakilo Blue Rock Retaining Wall with Stairway</title>
+      <link>https://all-phase-masonry.github.io/projects/project1/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://all-phase-masonry.github.io/projects/project1/</guid>
+      <description>This project was completed on a beautiful Makakilo home. We constructed a terraced retaining wall using blue rock and installed a new stairway with a concrete patio. We excavated and constructed new wall to fit the slope the home was on. We built a new concrete landing perfect size for entertaining and stairway for ease of travel down each terrace.
+#slide-window {position: relative;width: 500px;height: 300px;overflow: hidden;top: 0px;left: 0px;}#slides-list {width: 500px;height: 300px;position: absolute;margin: 0px;padding: 0px;-webkit-transform: translate3d(0px, 0px, 0px);transform: translate3d(0px, 0px, 0px);transition: all 0.</description>
+    </item>
+    
+    <item>
+      <title>Landscaping in Makaha Valley</title>
+      <link>https://all-phase-masonry.github.io/projects/project2/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://all-phase-masonry.github.io/projects/project2/</guid>
+      <description>This Project wanted a Exterior that match the beautiful Makaha Scenery. A Retaining Wall, Tropical Plants, &amp;amp; Sod Installation.
+ See Landscaping in Makaha Valley portfolio on Yelp!
+ </description>
+    </item>
+    
+    <item>
+      <title>Pupukea - Moss Rock Wall</title>
+      <link>https://all-phase-masonry.github.io/projects/project5/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://all-phase-masonry.github.io/projects/project5/</guid>
+      <description>This Country Side Home in Pupukea wanted to replace there old chain link fence at the entrance with something that matched there lush landscape. Moss Rock Wall are a popular choice for Hawaii Homeowners, for durability and the tropical aesthetic it’s known for.</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://all-phase-masonry.github.io/projects/project4/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://all-phase-masonry.github.io/projects/project4/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://all-phase-masonry.github.io/projects/project3/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://all-phase-masonry.github.io/projects/project3/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
