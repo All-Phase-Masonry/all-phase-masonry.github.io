@@ -1,9 +1,9 @@
 +++
-author = "Hugo Authors"
+author = "All Phase Masonry"
 title = "Landscaping in Makaha Valley"
 date = "2019-03-11"
 description = ""
-image = "/img/projects/project2_crop.jpg"
+image = "/img/projects/project02_images/cover.jpg"
 tags = [
     "landscaping",
     "plants",
@@ -19,8 +19,11 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-This Project wanted a Exterior that match the beautiful Makaha Scenery. A Retaining Wall, Tropical Plants, & Sod Installation.
+The home owner wanted an exterior to match the beautiful Makaha scenery.  All Phase Masonry deisgned a beautiful space consisting of a natural looking retaining wall, tripical plants, and fresh new grass.  Our work transformed the home owner's dirt yard into a zenful outdoor living space.
 
+### Photo Gallery ###
 > See [Landscaping in Makaha Valley](https://www.yelp.com/portfolio_project/DChGft1z5q8MSp4A484r7Q/-/mPZOOUy9u99V4E8YvQnzLA) portfolio on Yelp!
 
-![Makakilo Project Picture](/img/projects/project2.jpg)
+{{< gallery >}}
+  {{< snap-dir srcdir="/img/projects/project02_images/" >}}
+{{< /gallery >}}

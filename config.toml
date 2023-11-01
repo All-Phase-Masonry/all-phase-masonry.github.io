@@ -24,7 +24,7 @@ enableRobotsTXT = true
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/logo.png"
+    main = "img/logo/logo2.jpg"
     alt = "All Phase Masonry Logo"
 
     # The size parameter is the class name of tailwindcss
@@ -91,4 +91,10 @@ enableRobotsTXT = true
     name = "Yelp"
     url = "https://www.yelp.com/biz/all-phase-masonry-waipahu-2"
     pre = "<i class='fa-brands fa-yelp text-2xl'></i>"
+      weight = 1
+
+  [[menu.footer]]
+    name = "Instagram"
+    url = "https://www.instagram.com/allphasemasonry_hawaii/"
+    pre = "<i class='fa-brands fa-instagram text-2xl'></i>"
       weight = 1
