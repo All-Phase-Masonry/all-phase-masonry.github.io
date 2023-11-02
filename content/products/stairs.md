@@ -7,11 +7,10 @@ weight: 1
 description: Decorative stairs to enhance beauty and practicality.
 ---
 
-Enhance your home's outdoor space by adding beautiful stone or poured concrete stairs.  Our expert masons will work with you to design the perfect stairs for your project that compliments your existing yard.
+Enhance your home's outdoor space by adding beautiful stone or poured concrete stairs.  Our expert masons will work with you to design the perfect stairs for your project that compliments your existing yard.  
 
-We build stairs structually sound stairs using:
-* Stone with concrete topper
-* Poured concrete
-* Floating
+We build stairs structually sound stairs using various building materials.  Take a look at these and consult an All Phase Masonry designer to help determine which is best for you.
 
-![Photo of stairs](/img/products/products-stair01.jpg)
+{{< gallery >}}
+  {{< snap-dir srcdir="/img/products/stairs_images/" >}}
+{{< /gallery >}}

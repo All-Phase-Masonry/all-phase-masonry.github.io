@@ -1,7 +1,7 @@
 +++
 author = "All Phase Masonry"
 title = "Landscaping in Makaha Valley"
-date = "2019-03-11"
+date = "2023-03-01"
 description = ""
 image = "/img/projects/project02_images/cover.jpg"
 tags = [
