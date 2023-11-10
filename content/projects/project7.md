@@ -1,7 +1,7 @@
 +++
 author = "All Phase Masonry"
 title = "CMU block [NEED FULL TITLE]"
-date = "2019-04-01"
+date = "2023-10-07"
 description = ""
 image = "/img/projects/project07_images/zcover.jpg"
 tags = [
