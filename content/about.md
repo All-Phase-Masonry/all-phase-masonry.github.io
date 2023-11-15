@@ -16,7 +16,7 @@ We recognize how challenging it can be to find the right masonry contractor for 
 Here is why WE are different from the rest!
 
 #### Tongan Authenticity ####
-Our Tongan expert masons have have been building quality products using our tools and techniques honed over generations.  Because of our skilled craftsman, we've mastered the art and science behind constructing durable and and beautiful rock walls and landscaping.  While many try to duplicate our work, a keen eye can often tell the difference.  There are standard rock walls, and there are Tongan rock walls.  View our portfolio of work and see the difference.  
+Our Tongan expert masons have have been building quality products using our tools and techniques honed over generations.  Because of our skilled craftsman, we've mastered the art and science behind constructing durable rock walls and beautiful landscaping.  While many try to duplicate our work, a keen eye can often tell the difference.  There are standard rock walls, and there are Tongan rock walls.  View our portfolio of work and see the difference.  
 
 #### Professionalism - The Tongan Way ####
 We treat every client like you are our Ohana.  Throughout all the phases of your project, we work closely with the homeowner to discuss how we are buiding out your project making sure you're always informed and part of the process.  We would rather over communicate then leave our clients feeling like they are unsure about where we are in the build.  
