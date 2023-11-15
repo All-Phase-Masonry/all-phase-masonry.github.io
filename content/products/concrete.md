@@ -9,7 +9,7 @@ description: Concrete artistry by the pros!
 
 Your home deserves the best.  Concete slabs designed to fit the look and feel of your existing landscaping.  We'll apply the finishing of your choice, including stamped or dyed.
 
-Contact us to discuss available options!
+[Contact us](/contact/) to discuss available options!
 
 ### Specialty Pours - Driveways ###
 Give your car a break from the rough Hawaii roads with a smooth new drive way.

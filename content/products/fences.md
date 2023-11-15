@@ -7,4 +7,4 @@ weight: 1
 description: Protection, safety, and security.
 ---
 
-Using only the best materials, our fences...
+![Under construction](/img/construction.jpg)

@@ -7,10 +7,14 @@ weight: 1
 description: Fight back against erosion.
 ---
 
-Custom-built retaining walls reduce the impact of erosion around your home and prevent potential costly repairs.  Depending on your design, we build retaining walls from a variety of materials:
-* Moss Rock
-* Blue Rock
-* Mixed Rock
-* CMU Blocks
+Custom-built retaining walls reduce the impact of erosion around your home and prevent potential costly repairs.  We build retaining walls that will last generations.  
 
-![Photo of retaining wall](/img/products/products-wall03.jpg)
+Depending on your design, we can build retaining walls from a variety of materials.  See our [Stone Walls](/products/stonewalls) design inspiration.
+
+[Contact us](/contact/) to discuss available options!
+
+{{< gallery >}}
+  {{< snap-dir srcdir="/img/products/retainingwalls_images/" >}}
+{{< /gallery >}}
+
+

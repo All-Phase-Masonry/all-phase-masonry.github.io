@@ -7,4 +7,4 @@ weight: 1
 description: Stone tiled flooring for that island vibe.
 ---
 
-[Add Content]
+![Under construction](/img/construction.jpg)
