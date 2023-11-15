@@ -1,6 +1,6 @@
 +++
 author = "All Phase Masonry"
-title = "CMU block [NEED FULL TITLE]"
+title = "CMU block work"
 date = "2023-10-07"
 description = ""
 image = "/img/projects/project07_images/zcover.jpg"
