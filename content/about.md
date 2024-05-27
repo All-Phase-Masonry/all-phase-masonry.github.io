@@ -8,8 +8,6 @@ author = "Hugo Authors"
 
 Established in 2010, All Phase Construction has over 20+ years of craftsmanship in Masonry all throughout the islands of Hawaii. Skills and knowledge of all Concrete and Rock work passed down from generation to generation has allowed All Phase Masonry to develop a keen eye for beautifying your home.  We offer you the best options for quality and safety in a timely manner at Kama’aina prices.  Give us a call TODAY and let’s make you Ohana!
 
-[Add "family" photo here]
-
 ### Why select us for your project? ###
 We recognize how challenging it can be to find the right masonry contractor for your project with all the different factors that go into your decision making.  Our goal is to provide you with the highest quality product possible for a fair price.  
 
