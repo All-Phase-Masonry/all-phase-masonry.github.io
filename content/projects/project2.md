@@ -21,6 +21,8 @@ aliases = ["migrate-from-jekyl"]
 
 The home owner wanted an exterior to match the beautiful Makaha scenery.  All Phase Masonry deisgned a beautiful space consisting of a natural looking retaining wall, tripical plants, and fresh new grass.  Our work transformed the home owner's dirt yard into a zenful outdoor living space.
 
+[Contact us](/contact/) to discuss available options!
+
 ### Photo Gallery ###
 > See [Landscaping in Makaha Valley](https://www.yelp.com/portfolio_project/DChGft1z5q8MSp4A484r7Q/-/mPZOOUy9u99V4E8YvQnzLA) portfolio on Yelp!
 

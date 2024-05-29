@@ -20,6 +20,8 @@ aliases = ["migrate-from-jekyl"]
 
 This project was colossal!  The home owner wanted maximize the yard's usable space despite a significant height difference between his yard and the neighbor.  All Phase Masonry took on this project to excavate and install a tiered rock wall.  The space between tiers is intended to be a garden in the future, so we build stairways on both the left and right side of the walls.  Not only did this project make the space more functional, but it also added significant value to the property.
 
+[Contact us](/contact/) to discuss available options!
+
 ### Photo Gallery ###
 
 See [Foster Village Tiered Garden Walls with Stairways](https://www.yelp.com/portfolio_project/DChGft1z5q8MSp4A484r7Q/-/bRohE66PmPwNqwcsnAr7-w) portfolio on Yelp!

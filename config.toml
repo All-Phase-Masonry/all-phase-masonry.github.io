@@ -91,10 +91,21 @@ enableRobotsTXT = true
     name = "Yelp"
     url = "https://www.yelp.com/biz/all-phase-masonry-waipahu-2"
     pre = "<i class='fa-brands fa-yelp text-2xl'></i>"
-      weight = 1
+      weight = 4
 
   [[menu.footer]]
     name = "Instagram"
     url = "https://www.instagram.com/allphasemasonry_hawaii/"
     pre = "<i class='fa-brands fa-instagram text-2xl'></i>"
+      weight = 3
+
+  [[menu.footer]]
+    name = "Networx"
+    url = "https://www.networx.com/c.all-phase-masonry4"
+    pre = "<i class='fa-solid fa-house-signal text-2xl'></i>"
+      weight = 2
+
+    [[menu.footer]]
+    name = "CTA"
+    pre = "Call (808)382-5745"
       weight = 1

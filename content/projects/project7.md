@@ -18,7 +18,9 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-This project ...
+Extending an existing structure using CMU blocks adds additional structural support to your property.
+
+[Contact us](/contact/) to discuss available options!
 
 ### Photo Gallery ###
 

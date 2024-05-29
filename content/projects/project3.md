@@ -19,6 +19,8 @@ aliases = ["migrate-from-jekyl"]
 
 A beautiful home deserives an equally appealing driveway.  All Phase Masonry worked with the home owner to design the perfect approach to their property, graded a gentle incline, and poured thousands of pounds of concrete.  The broom finish added texture and improved safety against slips and falls.  When finished, the home owner was excited to show off their new drive way!
 
+[Contact us](/contact/) to discuss available options!
+
 ### Photo Gallery ###
 
 {{< gallery >}}

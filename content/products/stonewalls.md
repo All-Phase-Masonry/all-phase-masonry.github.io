@@ -9,6 +9,8 @@ description: Stone walls built by multi-generational masons.
 
 Our stone walls are one-of-a-kind.  Whether you prefer a groutless rock wall or a modern flair with colored grout, we'll design and build you the best wall that'll last for many decades.
 
+[Contact us](/contact/) to discuss available options!
+
 #### Moss Rock ####
 Beautiful rock with pitted surface makes for attractive walls.  This Oahu quarried rock is highly desirable for it's old appearance.  Interested in grout?  We can apply colored tint to your grout to fit your lanscape.
 {{< gallery >}}

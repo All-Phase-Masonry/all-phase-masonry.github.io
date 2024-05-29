@@ -11,6 +11,8 @@ Enhance your home's outdoor space by adding beautiful stone or poured concrete s
 
 We build stairs structually sound stairs using various building materials.  Take a look at these and consult an All Phase Masonry designer to help determine which is best for you.
 
+[Contact us](/contact/) to discuss available options!
+
 {{< gallery >}}
   {{< snap-dir srcdir="/img/products/stairs_images/" >}}
 {{< /gallery >}}

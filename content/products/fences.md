@@ -7,4 +7,10 @@ weight: 1
 description: Protection, safety, and security.
 ---
 
-![Under construction](/img/construction.jpg)
+Providing privacy, security, and peace of mind.
+
+[Contact us](/contact/) to discuss available options!
+
+{{< gallery >}}
+  {{< snap-dir srcdir="/img/products/fence_images/" >}}
+{{< /gallery >}}
