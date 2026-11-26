@@ -18,6 +18,10 @@ enableRobotsTXT = true
 
 [params]
 
+  # Contact form: Apps Script web app "APM Webform" (christopher@kilpen.com) and the Cloudflare Turnstile site key (public).
+  contact_endpoint = "https://script.google.com/macros/s/AKfycbznLo8ikrnLxun0kBgvjjOO5F2MTri_9x706b2afs9d6maOxjzKhkYnqhp3i_JTYE7A/exec"
+  turnstile_sitekey = "REPLACE_WITH_TURNSTILE_SITE_KEY"
+
   showBlog = false
   mainSections = ['projects']
 
