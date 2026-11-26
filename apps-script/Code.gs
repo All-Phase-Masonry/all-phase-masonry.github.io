@@ -103,3 +103,9 @@ function sendContactEmail_(p) {
     console.log('Something went wrong. ' + e);
   }
 }
+
+function authorizeFetch() {
+  UrlFetchApp.fetch('https://challenges.cloudflare.com/turnstile/v0/siteverify', {
+    method: 'post', payload: { secret: 'x', response: 'x' }, muteHttpExceptions: true
+  });
+}
